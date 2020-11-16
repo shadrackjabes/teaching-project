@@ -1,2 +1,7 @@
-MD simulations
-for simple and complex fluids
+MD simulations for simple and complex fluids
+enhanced samplings such as 
+1. umbrella sampling
+2. indirect umbrella sampling
+3. adaptive biased sampling
+4. streed MD sampling
+5. constrained dynamics
