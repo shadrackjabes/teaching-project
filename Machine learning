@@ -1,0 +1,16 @@
+Machine learning
+
+1. supervised learning algorithms
+  a) classification problem
+    a.1) linear margine classifier
+    a.2) non-linear margine classifier
+  b) regression problem
+  c) support vector machines
+2. unsupervised learning algorithms
+  a) k means clustering
+3. anomaly detection
+  3.a) developing and evaluation of anomaly detection system
+  3.b) evaluation metrics
+  
+4. feedforward and error backprobagation algorithm
+5. recommonders system: collaborative filter algorithm
