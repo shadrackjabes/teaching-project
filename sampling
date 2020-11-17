@@ -1,0 +1,14 @@
+enhanced samplings such as 
+1. umbrella sampling
+2. indirect umbrella sampling
+3. adaptive biased sampling
+4. streed MD sampling
+5. constrained dynamics
+6. indirect umbrella sampling
+
+Reference:
+1. Shadrack Jabes, B., Yadav, H. O. S., Kumar, S. K. ,  Chakravarty, C., J. Chem. Phys. 141, 154904 (2014); https://doi.org/10.1063/1.4897541
+2. Jabes, B. S., Bratko, D., Luzar, A., J. Phys. Chem. Lett. 2016, 7, 16, 3158–3163 https://doi.org/10.1021/acs.jpclett.6b01442
+3. B. Shadrack Jabes, Dusan Bratko, Alenka Luzar,  J. Phys. Chem. B 2018, 122, 13, 3596–3603 https://doi.org/10.1021/acs.jpcb.7b10790
+4. B Shadrack Jabes, Joshua Driskill, Davide Vanzo, Dusan Bratko, Alenka Luzar, J. Phys. Chem. C 2017, 121, 24, 13144–13150 https://doi.org/10.1021/acs.jpcc.7b02147
+5. B. S. Jabes, Rupert Klein, Luigi Delle Site, Adv. Theory Simul. 2018, 1, 1800025 https://doi.org/10.1002/adts.201800025
