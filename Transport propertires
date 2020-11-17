@@ -1,0 +1,8 @@
+Compute transport properties from equilibrium MD simulations
+1. diffusivity
+2. viscosity
+3. ionic conductivity
+
+Reference:
+1. Shadrack Jabes, B. and Chakravarty,C. J. Chem. Phys. 136, 144507 (2012); https://doi.org/10.1063/1.3702436
+2. Shadrack Jabes, B. and Chakravarty,C. J. Chem. Phys. 136, 144507 (2012); https://doi.org/10.1063/1.3702436
