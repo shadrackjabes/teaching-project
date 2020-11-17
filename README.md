@@ -1,2 +1,1 @@
-# teaching-project
-I plan to teach subjects via git
+Teaching strategy and implementation plans discussed
