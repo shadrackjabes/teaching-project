@@ -1,5 +1,0 @@
-MD simulations for simple and complex fluids
-simple liquids:
-that can be represented by LJ interactions
-complex liquids:
-that can be represented not by simple LJ type interactions, but requires charge, and other anisotropic interactions to model their behavior
